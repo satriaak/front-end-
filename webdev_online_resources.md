@@ -6,6 +6,7 @@
 * Logo Generator - https://www.logaster.com
 * UUID Generator - https://www.uuidgenerator.net/
 * Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
+* Ultimate Code Generator - https://webcode.tools/
 
 ## IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
