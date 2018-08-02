@@ -1,0 +1,8 @@
+*1 Parametes*
+Route::get('/user/{id}', function ($id) {
+    return ' This is User '.$id;
+});
+*2 Parameters*
+Route::get('/user/{id}/{name}', function ($id,$name) {
+    return ' This is User '.$name. 'with id' .$id;
+});
